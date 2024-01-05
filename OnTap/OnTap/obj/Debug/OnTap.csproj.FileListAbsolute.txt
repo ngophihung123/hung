@@ -1,0 +1,15 @@
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\OnTap.exe.config
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\OnTap.exe
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\OnTap.pdb
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.csproj.AssemblyReference.cache
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.Form1.resources
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.Properties.Resources.resources
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.csproj.GenerateResource.cache
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.exe
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.pdb
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\EntityFramework.dll
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\EntityFramework.xml
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hung\Documents\Demo\C#\OnTap\OnTap\obj\Debug\OnTap.csproj.CopyComplete
